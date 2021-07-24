@@ -31,7 +31,7 @@ alongside my computer science basic study in university equipped with so many sk
 ### 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
   (2013 - 2017)  • 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆\
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Graduated from faculty of information technology\
+ • Graduated from faculty of information technology\
                     • Major : computer science\
                     • Grade : very good with honor list\
                     • Gpa : 3.35\
@@ -44,71 +44,71 @@ alongside my computer science basic study in university equipped with so many sk
 
 ### 𝗪𝗼𝗿𝗸 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 ( +𝟰 𝗬𝗲𝗮𝗿𝘀 )
 
- • 07/2019 - Present    𝗠𝗶𝗱-𝗹𝗲𝘃𝗲𝗹 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟴 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+ • 07/2019 - Present     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 𝗠𝗶𝗱-𝗹𝗲𝘃𝗲𝗹 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟴 𝗺𝗼𝗻𝘁𝗵𝘀 )\
                         𝗛𝗮𝗿𝗱 𝗧𝗮𝘀𝗸\
-                        [Website](https://hardtask.com/)\
+                        [Website](https://hardtask.com/)
           
- • 04/2018 - 07/2019    𝗝𝘂𝗻𝗶𝗼𝗿 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟯 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+ • 04/2018 - 07/2019      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 𝗝𝘂𝗻𝗶𝗼𝗿 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟯 𝗺𝗼𝗻𝘁𝗵𝘀 )\
                         𝗜𝗻𝘃𝗲𝘁𝗲𝗰𝗵𝘀\
-                        [Website](https://invetechs.com/)    \      
+                        [Website](https://invetechs.com/)         
           
- • 07/2017 - 04/2018    𝗙𝗿𝗲𝘀𝗵 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟵 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+ • 07/2017 - 04/2018      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 𝗙𝗿𝗲𝘀𝗵 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟵 𝗺𝗼𝗻𝘁𝗵𝘀 )\
                         𝟰𝗮𝗿𝘁 - 𝘀𝘁𝘂𝗱𝗶𝗼\
-                        [Website](https://4art-studio.com/)   \     
+                        [Website](https://4art-studio.com/)       
                       
 ### 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 My best projects proud for it on play store :
 
-• Netlet : [Link](https://play.google.com/store/apps/details?id=app.netlet)
+• Netlet : [Link](https://play.google.com/store/apps/details?id=app.netlet)\
            desc: NetLet’s app lets you shop thousands of products of the companies, stores, and small projects.
 
 
-• Hesabi : [Link](https://play.google.com/store/apps/details?id=app.hesabi)
+• Hesabi : [Link](https://play.google.com/store/apps/details?id=app.hesabi)\
            desc: Hesabi App used to provide many social media services like making marketing.
 
 
-• Flora customer : [Link](https://play.google.com/store/apps/details?id=app.flora&hl=en)
+• Flora customer : [Link](https://play.google.com/store/apps/details?id=app.flora&hl=en)\
                    desc: the best way to make someoneís day on a special occasion.
   
 
 ### 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
 
-• Object oriented programming.
-• Data structure.
-• Algorithm.
-• Artificial neural network.
-• Database management system.
-• Compiler.
-• Operating system.
-• Assembly language.
-• Solid principles.
-• Creational design pattern.
-• Repository pattern.
-• Software engineering.
-• Clean architecture.
+• Object oriented programming.\
+• Data structure.\
+• Algorithm.\
+• Artificial neural network.\
+• Database management system.\
+• Compiler.\
+• Operating system.\
+• Assembly language.\
+• Solid principles.\
+• Creational design pattern.\
+• Repository pattern.\
+• Software engineering.\
+• Clean architecture.\
 
 ### 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 
-• Kotlin
-• Java  
+• Kotlin\
+• Java\
 • C ++
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
 
-• Professional working with Android Studio.
-• Dagger Hilt, Dependency Injection. 
-• Professional working with Git like Github , Gitlab , Gitkraken , Gitbash & Bitbucket .
-• Android JetPack ( Navigation Component, Paging, Databinding, View Binding.).
-• Good knowledge kotlin Coroutines.
-• Offline storage using Room Database, Shared Preference.
-• Professional working with design patterns ( MVVM & MVC ).
-• Professional working with Restful APIs using a Retrofit.
-• Web Socket SignalR for chatting, send & receive images, videos, documents.
-• Firebase Push Notifications.
-• Write clean code with best practice.
-• Google APIS ( maps, location, places, autocomplete search, route, directions ).
-• Professional working with activity, fragments,  material design, animations, & web service.
-• Publishing applications through google play.
+• Professional working with Android Studio.\
+• Dagger Hilt, Dependency Injection.\ 
+• Professional working with Git like Github , Gitlab , Gitkraken , Gitbash & Bitbucket .\
+• Android JetPack ( Navigation Component, Paging, Databinding, View Binding.).\
+• Good knowledge kotlin Coroutines.\
+• Offline storage using Room Database, Shared Preference.\
+• Professional working with design patterns ( MVVM & MVC ).\
+• Professional working with Restful APIs using a Retrofit.\
+• Web Socket SignalR for chatting, send & receive images, videos, documents.\
+• Firebase Push Notifications.\
+• Write clean code with best practice.\
+• Google APIS ( maps, location, places, autocomplete search, route, directions ).\
+• Professional working with activity, fragments,  material design, animations, & web service.\
+• Publishing applications through google play.\
 • 3rd Party libraries.
 
