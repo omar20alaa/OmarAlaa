@@ -30,7 +30,7 @@ alongside my computer science basic study in university equipped with so many sk
   
 ### 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
-### (2013 - 2017) 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆\
+## (2013 - 2017) 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
  • Graduated from faculty of information technology\
                     • Major : computer science\
                     • Grade : very good with honor list\
