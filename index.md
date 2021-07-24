@@ -7,7 +7,7 @@ alongside my computer science basic study in university equipped with so many sk
 
 • Mobile : 01279834300\
 • Email : omar.alaa4@yahoo.com\
-• Wuzzuf : [GoTo](https://wuzzuf.net/me/Omar-eldin-191c029e67)
+• Wuzzuf : [GoTo](https://wuzzuf.net/me/Omar-eldin-191c029e67)\
 • LinkedIn : [GoTo](https://www.linkedin.com/in/omar-alaa-/)
 
 
