@@ -5,56 +5,56 @@ alongside my computer science basic study in university equipped with so many sk
 
 ### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀
 
-• Mobile : 01279834300
-• Email : omar.alaa4@yahoo.com
+• Mobile : 01279834300\
+• Email : omar.alaa4@yahoo.com\
 • LinkedIn : [GoTo](https://www.linkedin.com/in/omar-alaa-/)
 
 ### 𝗖𝗼𝗿𝗲 𝗤𝘂𝗮𝗹𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
 
- • Native android development.
- • Quality assurance.
- • Mobile development life cycle.
- • User experience design.
- • Reviewing , supporting & fixing project building code.
- • Solving conflicts of project building code.
+ • Native android development.\
+ • Quality assurance.\
+ • Mobile development life cycle.\
+ • User experience design.\
+ • Reviewing , supporting & fixing project building code.\
+ • Solving conflicts of project building code.\
 
 
 ### 𝗔𝗰𝗰𝗼𝗺𝗽𝗹𝗶𝘀𝗵𝗺𝗲𝗻𝘁𝘀
 
-  • Total working apps ( 21 app ).
-  • 11 apps from scratch ( E-commerce , Educational ).
-  • 7 apps fixing bugs & add new features.
-  • 3 apps with a team.
-  • Graduated from computer science with grade 3.35 with honor list.
+  • Total working apps ( 21 app ).\
+  • 11 apps from scratch ( E-commerce , Educational ).\
+  • 7 apps fixing bugs & add new features.\
+  • 3 apps with a team.\
+  • Graduated from computer science with grade 3.35 with honor list.\
   • +40 project on my  [Github](https://github.com/omar20alaa)
   
 ### 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
-  (2013 - 2017)  • 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆
-                    • Graduated from faculty of information technology
-                    • Major : computer science
-                    • Grade : very good with honor list
-                    • Gpa : 3.35
-                    • Graduation project  :
-                    Employment matching : website & ios app responsible for matching  between company requirements & person seeking for a job.
-                    Responsibility : team member, design website using html5, css3.
+  (2013 - 2017)  • 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆\
+                    • Graduated from faculty of information technology\
+                    • Major : computer science\
+                    • Grade : very good with honor list\
+                    • Gpa : 3.35\
+                    • Graduation project  :\
+                    Employment matching : website & ios app responsible for matching  between company requirements & person seeking for a job.\
+                    Responsibility : team member, design website using html5, css3.\
                     • Grade : excellent.
 
 
 
 ### 𝗪𝗼𝗿𝗸 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 ( +𝟰 𝗬𝗲𝗮𝗿𝘀 )
 
- • 07/2019 - Present  𝗠𝗶𝗱-𝗹𝗲𝘃𝗲𝗹 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟴 𝗺𝗼𝗻𝘁𝗵𝘀 )
-                      𝗛𝗮𝗿𝗱 𝗧𝗮𝘀𝗸
-                      [Website](https://hardtask.com/)
+ • 07/2019 - Present    𝗠𝗶𝗱-𝗹𝗲𝘃𝗲𝗹 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟴 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+                        𝗛𝗮𝗿𝗱 𝗧𝗮𝘀𝗸\
+                        [Website](https://hardtask.com/)\
           
- • 04/2018 - 07/2019  𝗝𝘂𝗻𝗶𝗼𝗿 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟯 𝗺𝗼𝗻𝘁𝗵𝘀 )
-                      𝗜𝗻𝘃𝗲𝘁𝗲𝗰𝗵𝘀
-                      [Website](https://invetechs.com/)          
+ • 04/2018 - 07/2019    𝗝𝘂𝗻𝗶𝗼𝗿 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟭 𝘆𝗲𝗮𝗿 & 𝟯 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+                        𝗜𝗻𝘃𝗲𝘁𝗲𝗰𝗵𝘀\
+                        [Website](https://invetechs.com/)    \      
           
- • 07/2017 - 04/2018  𝗙𝗿𝗲𝘀𝗵 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟵 𝗺𝗼𝗻𝘁𝗵𝘀 )
-                      𝟰𝗮𝗿𝘁 - 𝘀𝘁𝘂𝗱𝗶𝗼
-                      [Website](https://4art-studio.com/)        
+ • 07/2017 - 04/2018    𝗙𝗿𝗲𝘀𝗵 𝗮𝗻𝗱𝗿𝗼𝗶𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 ( 𝟵 𝗺𝗼𝗻𝘁𝗵𝘀 )\
+                        𝟰𝗮𝗿𝘁 - 𝘀𝘁𝘂𝗱𝗶𝗼\
+                        [Website](https://4art-studio.com/)   \     
                       
 ### 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
