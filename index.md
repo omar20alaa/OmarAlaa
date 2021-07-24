@@ -109,3 +109,5 @@ My best projects proud for it on play store :
 • Publishing applications through google play.\
 • 3rd Party libraries.
 
+github:
+  is_project_page: false
