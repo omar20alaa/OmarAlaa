@@ -30,7 +30,7 @@ alongside my computer science basic study in university equipped with so many sk
   
 ### 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
 
-  (2013 - 2017)  • 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆\\
+  ## (2013 - 2017)  • 𝗠𝗶𝘀𝗿 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆\
  • Graduated from faculty of information technology\
                     • Major : computer science\
                     • Grade : very good with honor list\
@@ -58,15 +58,15 @@ alongside my computer science basic study in university equipped with so many sk
 My best projects proud for it on play store :
 
 • [Netlet](https://play.google.com/store/apps/details?id=app.netlet)\
-           desc: NetLet’s app lets you shop thousands of products of the companies, stores, and small projects.
+      &nbsp;     desc: NetLet’s app lets you shop thousands of products of the companies, stores, and small projects.
 
 
 • [Hesabi](https://play.google.com/store/apps/details?id=app.hesabi)\
-           desc: Hesabi App used to provide many social media services like making marketing.
+       &nbsp;    desc: Hesabi App used to provide many social media services like making marketing.
 
 
 • [Flora customer](https://play.google.com/store/apps/details?id=app.flora&hl=en)\
-                   desc: the best way to make someoneís day on a special occasion.
+           &nbsp;  desc: the best way to make someoneís day on a special occasion.
   
 
 ### 𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
@@ -95,7 +95,7 @@ My best projects proud for it on play store :
 
 • Professional working with Android Studio.\
 • Dagger Hilt, Dependency Injection.\ 
-• Professional working with Git like Github , Gitlab , Gitkraken , &nbsp; Gitbash & Bitbucket .\
+• Professional working with Git like Github , Gitlab , Gitkraken , &nbsp;  Gitbash & Bitbucket .\
 • Android JetPack ( Navigation Component, Paging, Databinding, View Binding.).\
 • Good knowledge kotlin Coroutines.\
 • Offline storage using Room Database, Shared Preference.\
